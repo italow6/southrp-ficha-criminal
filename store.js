@@ -114,7 +114,7 @@ function updateCartTotal() {
 
     totalm = Math.round(totalm * 100) / 100
     if (totalm>60){
-        totalm = 60
+        totalm = 70
     }
     document.getElementsByClassName('cart-total-meses')[0].innerText = totalm + ' meses'
 }
