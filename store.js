@@ -120,4 +120,4 @@ function updateCartTotal() {
 }
 
 
-//<button class="btn btn-primary btn-purchase" type="button">Fichar</button>
+//<button class="btn btn-primary btn-purchase" type="button">Fichar</button>++++
